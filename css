@@ -1,0 +1,116 @@
+/* Colores */
+:root {
+	--primary-color: #F7A051;
+	--secondary-color: #1D3557;
+	--tertiary-color: #F1FAEE;
+	--text-color: #333;
+}
+
+/* Tipografía */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+	color: var(--text-color);
+	background-color: var(--tertiary-color);
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+}
+
+h1 {
+	font-size: 3rem;
+	text-align: center;
+	color: var(--primary-color);
+}
+
+h2 {
+	font-size: 2rem;
+	color: var(--secondary-color);
+}
+
+p {
+	margin: 1em 0;
+}
+
+/* Encabezado */
+header {
+	background-color: var(--secondary-color);
+	color: var(--tertiary-color);
+	padding: 1em;
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin: 0 1em;
+}
+
+nav a {
+	color: var(--tertiary-color);
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+
+nav a:hover {
+	color: var(--primary-color);
+}
+
+/* Secciones */
+section {
+	background-color: var(--tertiary-color);
+	padding: 2em;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+	font-size: 2rem;
+	color: var(--secondary-color);
+	margin-bottom: 1em;
+}
+
+ul {
+	margin: 1em 0;
+}
+
+ul li {
+	margin: 0.5em 0;
+}
+
+/* Pie de página */
+footer {
+	background-color: var(--secondary-color);
+	color: var(--tertiary-color);
+	padding: 1em;
+	text-align: center;
+}
+
+/* Botones */
+button {
+	background-color: var(--primary-color);
+	color: var(--tertiary-color);
+	border: none;
+	padding: 1em 2em;
+	font-size: 1.2rem;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #F5B041;
+}
