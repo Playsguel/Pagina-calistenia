@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cómo mejorar en cada ejercicio de la calistenia</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Cómo mejorar en cada ejercicio de la calistenia</h1>
+		<nav>
+			<ul>
+				<li><a href="#push-ups">Flexiones/</a></li>
+				<li><a href="#pull-ups">Dominadas/</a></li>
+				<li><a href="#squats">Sentadillas</a></li>
+				<li><a href="#dips">Fondos</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="push-ups">
+			<h2>Flexiones de brazos</h2>
+			<p>Para mejorar en las flexiones de brazos, es importante trabajar en la fuerza de los músculos del pecho, los tríceps y los hombros. Algunas maneras de hacerlo son:</p>
+			<ul>
+				<li>Aumentar el número de repeticiones gradualmente</li>
+				<li>Incorporar variaciones como las flexiones diamante, las flexiones con una mano o las flexiones con palmada</li>
+				<li>Añadir peso con una mochila o un chaleco con peso</li>
+			</ul>
+			<button>¡Prueba este ejercicio!</button>
+			<a href="https://www.youtube.com/watch?v=TAPLFyx4xd0" target="_blank">Ver video en YouTube</a>
+		</section>
+		<section id="pull-ups">
+			<h2>Dominadas</h2>
+			<p>Las dominadas son un ejercicio excelente para trabajar la espalda, los brazos y los hombros. Para mejorar en las dominadas, puedes hacer lo siguiente:</p>
+			<ul>
+				<li>Aumentar el número de repeticiones gradualmente</li>
+				<li>Incorporar variaciones como las dominadas con agarre amplio o estrecho, las dominadas con agarre invertido o las dominadas con peso</li>
+				<li>Hacer ejercicios complementarios para fortalecer los músculos de la espalda, como las filas con mancuernas o el remo con barra</li>
+			</ul>
+			<button>¡Prueba este ejercicio!</button>
+			<a href="https://www.youtube.com/watch?v=zx-k-U1t4QM" target="_blank">Ver video en YouTube</a>
+		</section>
+		<section id="squats">
+			<h2>Sentadillas</h2>
+			<p>Las sentadillas son un ejercicio excelente para trabajar las piernas y los glúteos. Para mejorar en las sentadillas, puedes hacer lo siguiente:</p>
+			<ul>
+				<li>Aumentar el número de repeticiones gradualmente</li>
+				<li>Incorporar variaciones como las sentadillas con salto o las sentadillas con una pierna</
+                    <li>Añadir peso con una barra o mancuernas</li>
+                    <li>Trabajar la flexibilidad de las piernas y las caderas para mejorar la técnica</li>
+                </ul>
+				<button>¡Prueba este ejercicio!</button>
+				<a href="https://www.youtube.com/watch?v=wtgZEaaWc7k" target="_blank">Ver video en YouTube</a>
+            </section>
+			<section>
+				<h2>Fondos de paralelas</h2>
+				<p>Los fondos de paralelas son un ejercicio excelente para fortalecer los tríceps y los hombros. Aquí te mostramos cómo hacerlos correctamente:</p>
+				<ul>
+					<li>Practica flexiones y fondos en barras paralelas para mejorar tu fuerza y técnica.</li>
+					<li>Aumenta la intensidad del ejercicio colocando peso en tu cuerpo con un cinturón de lastre.</li>
+					<li>Realiza repeticiones negativas, bajando lentamente el cuerpo para aumentar la fuerza y resistencia de los tríceps.</li>
+				</ul>
+				<button>¡Prueba este ejercicio!</button>
+				<a href="https://www.youtube.com/watch?v=WENzJzpb1RY" target="_blank">Ver video en YouTube</a>
+			</section>
+			<section>
+				<h2>Muscle up</h2>
+				<p>El muscle up es un ejercicio avanzado de calistenia que combina una dominada y un fondos en anillas o barra. Aquí te mostramos cómo hacerlo correctamente:</p>
+				<ul>
+					<li>Fortalece tus músculos con otros ejercicios de calistenia, como dominadas y fondos.</li>
+					<li>Practica la transición entre la dominada y los fondos en anillas o barras.</li>
+					<li>Realiza ejercicios de explosividad, como saltos en profundidad, para mejorar la fuerza y velocidad del movimiento.</li>
+				</ul>
+				<button>¡Prueba este ejercicio!</button>
+				<a href="https://www.youtube.com/watch?v=fgVRqT2_hjY" target="_blank">Ver video en YouTube</a>
+			</section>
+			
+        </main>
+    </body>
+    </html>
